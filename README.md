@@ -1,2 +1,2 @@
 # special-sniffle
-Password manager in rust
+Projet en Rust
